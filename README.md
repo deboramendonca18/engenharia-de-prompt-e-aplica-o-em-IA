@@ -1,7 +1,7 @@
 # Engenharia de Prompt e Aplicações em Inteligência Artificial
 
 # Sobre a Disciplina
-Esse repositório foi criado para documentar atividades, experimentos e aprendizados relacionados à disciplina de Engenharia de Prompt e Aplicações em IA do Segundo se 2º semestre, do curso de Análise e Desenvolvimento de sistemas 
+Esse repositório foi criado para documentar atividades, experimentos e aprendizados relacionados à disciplina de Engenharia de Prompt e Aplicações em IA do Segundo 2º semestre, do curso de Análise e Desenvolvimento de sistemas 
 
 O objetivo é desenvolver habilidades na criação de instruções claras e eficazes para modelos de Inteligência Artificial.
 
@@ -12,7 +12,20 @@ Desenvolver um prompt simples, claro e direto, demonstrando compreensão inicial
 
 # Prompt Desenvolvido
 
--->> Explique o que é Engenharia de Prompt como se estivesse ensinando para um estudante do primeiro semestre da faculdade, utilizando linguagem simples e exemplos práticos.
+-->> Explique o que é Engenharia de Prompt como se estivesse ensinando para um estudante do segundo semestre da faculdade de ADS, utilizando linguagem simples e exemplo prático.
+
+# Retorno
+Engenharia de Prompt é a prática de criar instruções claras e bem estruturadas para modelos de Inteligência Artificial, como o ChatGPT, Gemini, etc.. de forma que eles produzam respostas mais precisas e úteis.
+
+Pense no prompt como uma receita de bolo: quanto mais detalhada e organizada a receita, melhor será o resultado final.
+
+Na prática, isso envolve:
+
+Ser claro: o modelo precisa entender exatamente o que você quer.
+
+Dar contexto: explicar para quem ou para que finalidade a resposta deve servir.
+
+Usar exemplos quando necessário: mostrar como você quer que a resposta seja estruturada.
 
 
 # Reflexão Inicial
